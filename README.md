@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Tools and Technologies Used](#tools-and-technologies-used)
 * [Conclusions](#conclusions)
 * [Contact](#contact)
